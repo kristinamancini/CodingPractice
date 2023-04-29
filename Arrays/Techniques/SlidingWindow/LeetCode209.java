@@ -1,6 +1,12 @@
-import java.util.*;
+/*
 
+minimum size subarray sum
 
+Credit: https://leetcode.com/problems/minimum-size-subarray-sum/solutions/59078/accepted-clean-java-o-n-solution-two-pointers/?orderBy=most_votes
+
+This discussion thread has more replies with good explanations. 
+
+*/
 class LeetCode209{
     public int minSubArrayLen(int target, int[] nums) {
         int size = nums.length;
@@ -27,11 +33,3 @@ class LeetCode209{
           return min_length;
     }
 }
-
-/*
-Source Credit:
-https://leetcode.com/problems/minimum-size-subarray-sum/solutions/59078/accepted-clean-java-o-n-solution-two-pointers/?orderBy=most_votes
-
-This discussion thread has more replies with good explanations. 
-
-*/
