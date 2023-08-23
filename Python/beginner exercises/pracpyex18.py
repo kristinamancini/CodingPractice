@@ -1,3 +1,9 @@
+"""
+This source code is from the following website:https://www.geeksforgeeks.org/python-cows-and-bulls-game/
+This was a difficult assignment for me, but the website gave a great explanation that really helped me understand
+the material more.
+"""
+
 import random
 
 #random number generator
