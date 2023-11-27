@@ -4,4 +4,4 @@ The purpose of this respository is to record my notes and progress through study
 Main programming languages: Java, Python  
 Other languages: Javascript, SQL
 
-Websites used: Leetcode, CodingBat
+Websites used: CodingBat, Leetcode
